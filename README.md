@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **Laravel**
 
-<h3 align="center">Favourite stack Laravel and Vue JS</h3>
+- 💬 My favourite stack **TALL Stack for Beginner Project & VILT Stack for Advance Project**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
